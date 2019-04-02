@@ -3,7 +3,7 @@
 	define('DB_HOST', 'localhost');
 	define('DB_USER', 'root');
 	define('DB_PASS', '1234');
-	define('DB_NAME', 'login_php');
+	define('DB_NAME', 'LOGIN_PHP');
 	
 	//Habilita todas as exibições de erros
 	ini_set('display_erros', true);
