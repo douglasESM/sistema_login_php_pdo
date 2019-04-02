@@ -22,7 +22,7 @@
 	
 	/**
 	* Verifica se o usuário está logado.
-	* A função isLoggedIn verifica se o usuário está logado. Para isso, ela isa o valor de * * * logged_in no array $_SESSION. Nós vamos criar esse indice com o valor true sempre que o 
+	* A função isLoggedIn verifica se o usuário está logado. Para isso, ela isa o valor de * * * logged_in no array $_SESSION. Nós * * vamos criar esse indice com o valor true sempre que o 
 	* visitante efetuar login.
 	*/
 	function isLoggedIn()
